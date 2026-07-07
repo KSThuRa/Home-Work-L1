@@ -9,7 +9,6 @@ body{
     background:#fff;
 }
 
-/* Header */
 header{
     height:100px;
     background:#ddd;
@@ -31,7 +30,7 @@ nav a{
     font-size:20px;
 }
 
-/* Products */
+
 .products{
     display:flex;
 }
@@ -66,7 +65,7 @@ nav a{
     color:#000;
 }
 
-/* Main Content */
+
 main{
     display:flex;
 }
